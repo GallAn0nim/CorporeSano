@@ -1,0 +1,10 @@
+{
+  "name": "corpore-sano",
+  "version": "0.1.0",
+  "description": "Mens sana in corpore sano: short workouts while your agent works.",
+  "author": {
+    "name": "GallAn0nim"
+  },
+  "license": "MIT",
+  "types": "./types/index.d.ts"
+}

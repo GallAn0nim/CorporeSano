@@ -1,0 +1,14 @@
+{
+  "name": "corpore-sano",
+  "description": "Short workouts while your agent works: a Claude Code mod for the desktop app.",
+  "owner": {
+    "name": "GallAn0nim"
+  },
+  "plugins": [
+    {
+      "name": "corpore-sano",
+      "source": "./",
+      "description": "Mens sana in corpore sano: short workouts while your agent works."
+    }
+  ]
+}
